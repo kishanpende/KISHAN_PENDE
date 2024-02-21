@@ -3,17 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Deploying Hybrid Application Serverless Containenized **
+- I’m currently working on **IT Support**
 
-- 🌱 I’m currently learning **Cloud Infrastructure DevOps/Operation Professional**
+-  I’m currently learning **Google Cloud & AWS**
 
-- 👯 I’m looking to collaborate on **Anti Money Laundring System Using BlockChain**
+-  I’m looking for help with **Crowdfunding at Muskurahat Foundation**
 
-- 🤝 I’m looking for help with **Crowdfunding at Muskurahat Foundation**
+-  Ask me about **System Administration & Cloud Computing**
 
-- 💬 Ask me about **System Administration , Cloud Computing**
-
-- 📫 How to reach me **kishanpende@gmail.com**
+-  How to reach me **kishanpende@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
