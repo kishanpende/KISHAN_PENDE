@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KISHAN</h1>
-<h3 align="center">"Navigating the Digital Nexus: Orchestrating IT Solutions, Fortifying Security, and Unleashing Cloud Synergy with Mastery and Precision"</h3>
+<h3 align="center">"Navigating the Digital Nexus: Orchestrating IT Solutions, Fortifying Security, and Unleashing Cloud Synergy "</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
